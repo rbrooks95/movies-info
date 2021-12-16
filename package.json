@@ -1,0 +1,23 @@
+{
+  "name": "movies-vs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbrooks95/movies-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbrooks95/movies-info/issues"
+  },
+  "homepage": "https://github.com/rbrooks95/movies-info#readme",
+  "dependencies": {
+    "bulma-extensions": "^6.2.7",
+    "bulma-switch": "^2.0.0"
+  }
+}
